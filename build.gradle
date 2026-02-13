@@ -14,7 +14,7 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
-    namespace 'net.kenstir.assets'
+    namespace = 'net.kenstir.assets'
 }
 
 dependencies {
